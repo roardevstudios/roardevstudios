@@ -9,20 +9,30 @@
   <em>Crafting thoughtful desktop software, expressive web experiences, and interactive worlds in purple & electric blue.</em>
 </p>
 
-[![Website](https://img.shields.io/badge/Portfolio-roardevstudios.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101326)](https://roardevstudios-portfolio.vercel.app/)
-[![Hive Platform](https://img.shields.io/badge/Hive-hivetools.pro-38bdf8?style=for-the-badge&logo=electron&logoColor=white&labelColor=101326)](https://hivetools.pro)
-[![Discord](https://img.shields.io/badge/Discord-Direct_Message-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101326)](https://discord.com/users/1452045014984032448)
-[![Location](https://img.shields.io/badge/Location-Slovakia-c084fc?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101326)](https://github.com/roardevstudios)
-
----
+<p align="center">
+  <a href="https://roardevstudios-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-roardevstudios.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101326" alt="Portfolio" />
+  </a>
+  <a href="https://hivetools.pro">
+    <img src="https://img.shields.io/badge/Hive-hivetools.pro-38bdf8?style=for-the-badge&logo=electron&logoColor=white&labelColor=101326" alt="Hive Platform" />
+  </a>
+  <a href="https://discord.com/users/1452045014984032448">
+    <img src="https://img.shields.io/badge/Discord-Direct_Message-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101326" alt="Discord" />
+  </a>
+  <a href="https://github.com/roardevstudios">
+    <img src="https://img.shields.io/badge/Location-Slovakia-c084fc?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101326" alt="Slovakia" />
+  </a>
+</p>
 
 </div>
 
+---
+
 ## 💡 About Me
 
-- 🔭 **Building**: [**Hive**](https://hivetools.pro) — an all-in-one desktop productivity workspace for Windows & Linux with online companion portal at **hivetools.pro**.
-- 🌐 **Web Development**: Designing & developing high-performance digital products, interactive portfolios, and web apps with modern web standards.
-- 🎮 **Game Systems**: Engineering modular gameplay mechanics, interactive logic, and virtual environments in Roblox Studio.
+- 🔭 **Building**: [**Hive**](https://hivetools.pro) — an all-in-one desktop productivity workspace for Windows & Linux with an online companion portal at **hivetools.pro**.
+- 🌐 **Web Development**: High-performance digital products, interactive portfolios, and web apps with modern web standards.
+- 🎮 **Game Systems**: Modular gameplay mechanics, interactive logic, and virtual environments in Roblox Studio.
 - ⚡ **Philosophy**: *Ideas into things that feel alive. Curious by default, shipping one polished detail at a time.*
 
 ---
@@ -101,6 +111,29 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roardevstudios&theme=tokyo-night&bg_color=090a16&color=38bdf8&line=a855f7&point=38bdf8&hide_border=true)](https://github.com/roardevstudios)
 
 </div>
+
+---
+
+## 🛠️ Recently Featured Repositories
+
+<div align="center">
+
+| Repository | Description | Tech |
+| :--- | :--- | :--- |
+| **[portfolio_repo](portfolio_repo/)** | Personal portfolio site — purple & blue cyber aesthetics with Aceternity 3D Cubes Grid and Dotted Glow effects. | HTML · CSS · JS · Vercel |
+| **[hivetools.pro](https://hivetools.pro)** | Hive companion web platform — documentation, API keys, and companion features for the Hive ecosystem. | Astro · Vercel |
+| **Hive Desktop** | Cross-platform desktop productivity workspace for Windows & Linux. | Electron · React · TypeScript |
+
+</div>
+
+<details>
+  <summary><b>👀 View all public repositories</b></summary>
+
+Explore the full catalog of public work on GitHub.
+
+[![All Repositories](https://img.shields.io/badge/All_Repositories-roardevstudios-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=101326)](https://github.com/roardevstudios?tab=repositories)
+
+</details>
 
 ---
 
